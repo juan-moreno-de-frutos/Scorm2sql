@@ -17,6 +17,14 @@
 /* * * * * * * * * * * * * * * * * * * * */
 .../Scorm2sql/config.properties
 
+
+/*****************************************/
+/* Librerías empleadas:			 */
+/* * * * * * * * * * * * * * * * * * * * */
+- jdom.jar
+- log4-1.2.16.jar
+- mysql-connector-java-5.0.4-bin.jar
+
 /*****************************************/
 /* Esquema de la BD:		 			 */
 /* Nombre BD: scorm						 */
